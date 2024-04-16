@@ -1,12 +1,11 @@
-# DistractionFreeCFA
-A browser extension that cleans up the CFA website's interface.
+# CleanPause
 
-![Before and After](before_and_after.png)
+A browser extension that hides the player controls from youtube videos.
+
+The UI can be toggled with `Alt-M` or by clicking on the extension icon.
 
 ## Install
 
 ### Firefox
-Download the .xpi file [here](https://github.com/henrystern/DistractionFreeCFA/releases/latest) and open it with firefox.
 
-### Chrome
-Download the zip file [here](https://github.com/henrystern/DistractionFreeCFA/releases/latest) and follow the instructions [here](https://superuser.com/questions/247651/how-does-one-install-an-extension-for-chrome-browser-from-the-local-file-system).
+Download the .xpi file [here](https://github.com/henrystern/DistractionFreeCFA/releases/latest) and open it with firefox.
