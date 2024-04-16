@@ -32,5 +32,11 @@
       },
       "description": "Toggle youtube player controls."
     }
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "CleanPause@example.org"
+    }
   }
 }
